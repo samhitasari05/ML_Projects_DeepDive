@@ -40,7 +40,7 @@ K-Means is an algorithm that partitions data into `K` clusters by minimizing the
 ## 🗂️ Files Included
 
 - `kmeans.py` — Python script implementing K-Means Clustering  
-- `AIT636_Assignment3B_SamhitaSarikonda.pdf` — Full report with results, tables, and analysis  
+- `Kmeans.pdf` — Full report with results, tables, and analysis  
 - *(Optional)* `images/` folder with output visualizations
 
 ---
