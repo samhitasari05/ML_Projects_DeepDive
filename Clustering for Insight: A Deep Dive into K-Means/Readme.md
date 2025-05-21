@@ -39,7 +39,7 @@ K-Means is an algorithm that partitions data into `K` clusters by minimizing the
 
 ## 🗂️ Files Included
 
-- `assignment3b_kmeans.py` — Python script implementing K-Means Clustering  
+- `kmeans.py` — Python script implementing K-Means Clustering  
 - `AIT636_Assignment3B_SamhitaSarikonda.pdf` — Full report with results, tables, and analysis  
 - *(Optional)* `images/` folder with output visualizations
 
@@ -52,6 +52,7 @@ scikit-learn
 numpy
 pandas
 matplotlib
+
 
 pip install -r requirements.txt
 
