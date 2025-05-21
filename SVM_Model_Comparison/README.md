@@ -51,8 +51,8 @@ Over multiple runs and metric evaluations, here’s a snapshot of the F1-scores:
 
 ## 📂 Project Files
 
-- `AIT_636_assignment7b_svm.py` — Core implementation using `scikit-learn`
-- `AIT_636_Assignment7B_SVM_SamhitaSari.pdf` — Report with visualizations and full evaluation
+- `svm.py` — Core implementation using `scikit-learn`
+- `SVM_Results.pdf` — Report with visualizations and full evaluation
 - `README.md` — You’re reading it 🙂
 - `requirements.txt` — Library list for reproducibility
 
