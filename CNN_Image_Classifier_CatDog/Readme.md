@@ -2,7 +2,7 @@
 
 This project demonstrates the use of a **Convolutional Neural Network (CNN)** to classify images of cats and dogs.
 
-🧪 Completed as part of AIT 636 (Machine Learning) at George Mason University, this project applies CNNs to solve a visual classification problem using structured image data.
+🧪 This project applies CNNs to solve a visual classification problem using structured image data.
 
 ---
 
