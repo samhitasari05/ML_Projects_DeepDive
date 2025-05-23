@@ -5,7 +5,7 @@
   <img src="ChatGPT Image May 22, 2025, 10_41_38 PM.png" width="300"/>
 </p>
 
-Welcome! I’m Samhita 👩‍💻 and this repository is a collection of machine learning projects I built as I started diving deeper into the world of **data-driven problem solving**.
+Welcome to this collection of machine learning projects I built as I started diving deeper into the world of **data-driven problem solving**.
 
 Each project here reflects a hands-on milestone — where I picked a real-world challenge, explored it with curiosity, applied ML algorithms, and uncovered insights that go beyond accuracy scores.
 
